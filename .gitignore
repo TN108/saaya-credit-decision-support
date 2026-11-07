@@ -1,0 +1,17 @@
+# Secret API keys
+.streamlit/secrets.toml
+.env
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit cache
+.streamlit/cache/
+
+# Operating-system files
+.DS_Store
